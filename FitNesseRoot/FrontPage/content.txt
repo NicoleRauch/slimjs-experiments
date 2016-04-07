@@ -1,3 +1,12 @@
+!path /
+
+!define TEST_SYSTEM {slim}
+!define COMMAND_PATTERN {./node_modules/.bin/slimjs %p}
+!path ./fixtures
+
+!contents -R2 -g -p -f -h
+
+
 !1 Welcome to [[FitNesse][FitNesse.FitNesse]]!
 !3 ''The fully integrated stand-alone acceptance testing framework and wiki.''
 # Here is a good place to add your first page (WikiWord). For example, MyTopLevelApplicationPage

@@ -4,3 +4,6 @@ FitNesseRoot/PageHeader
 FitNesseRoot/TemplateLibrary
 FitNesseRoot/files
 FitNesseRoot/properties
+FitNesseRoot/**/*.zip
+FitNesseRoot/RecentChanges
+node_modules
