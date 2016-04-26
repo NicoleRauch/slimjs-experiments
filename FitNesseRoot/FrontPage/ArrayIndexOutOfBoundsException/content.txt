@@ -1,0 +1,5 @@
+Name in column heading cannot be found in fixture. This leads to an exception.
+
+!|Contributor Filters|
+|Other Name          |
+|Bla                 |
