@@ -6,7 +6,7 @@
     "url": "git://..."
   },
   "devDependencies": {
-    "slimjs": "2.0.1"
+    "slimjs": "2.1.2"
   },
   "dependencies": {
   }
